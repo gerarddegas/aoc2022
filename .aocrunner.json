@@ -67,16 +67,23 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
-        "attempts": [],
-        "time": null
+        "solved": true,
+        "result": "VWLCWGSDQ",
+        "attempts": [
+          "BVPNQCZC",
+          "GSFWQSCQ",
+          "VFSWDDV",
+          "SZLCCZV"
+        ],
+        "time": 1.3305
       },
       "part2": {
-        "solved": false,
-        "result": null,
-        "attempts": [],
-        "time": null
+        "solved": true,
+        "result": "TCGLQSLPW",
+        "attempts": [
+          "GVBCQGRCN"
+        ],
+        "time": 1.388958
       }
     },
     {
